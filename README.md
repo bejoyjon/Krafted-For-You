@@ -6,8 +6,8 @@ I want Krafted For You to be "top of the mind" brand when it comes to gifting, b
 
 
 ## The team
-I am a soloprenueur who handles everything from conception, order management, marketing to sourcing and shipping. Due to the seasonal/sporadic nature of my business, I need to be highly reliable when it comes to the core product and extremely cost efficient on the overheads 
-
+I am a soloprenueur who handles everything from conception, order management, marketing to sourcing and shipping. Due to the seasonal/sporadic nature of my business, I need to be highly reliable when it comes to the core product and extremely cost efficient on the overheads.\
+My customers value me because I deliver the product I promise in terms of quality (high quality material, extreme focus on product detail, deep thought put behind product design), time (always on time delivery, focus) and 
 
 ## How the business runs currently 
 
