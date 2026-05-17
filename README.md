@@ -8,7 +8,7 @@ I want Krafted For You to be "top of the mind" brand when it comes to customized
 My customers value Krafted For You because we deliver on quality (creative yet sophisticated designs, any level of customizations, high quality raw material, extreme focus on product detail, often handmade, shipped with sufficient protection to prevent quality degradation), time (always on time delivery) and great customer buying experience (quick responses to customer enquiries, custom requests narrowed down to options very quickly, order to cash made very easy).
 
 ## The team
-I am a soloprenueur who handles everything from conception, order management, marketing to sourcing and shipping. Due to the seasonal/sporadic nature of my business, I need to be highly reliable when it comes to the core product and extremely cost efficient on the overheads.\
+I am a artist-soloprenueur who handles everything from product conception, order management, marketing to sourcing and shipping. Due to the seasonal/sporadic nature of my business, I need to be highly reliable when it comes to the core product and extremely cost efficient on the overheads.
 
 ## How the business runs currently 
 
@@ -31,15 +31,16 @@ Posts on Insta, word of mouth from existing customer base.
 ## How we want the business to run 
 
 ### Long term goal
-We want to be able to service customers on any kind of gift they have in mind. We want to build a portfolio of internal and external products which are highly creative and 
+We want to be able to provide customers any kind of gifting solution they have in mind. We want to build a portfolio of internal and external products which are sophisticated, highly creative products built with attention to detail. We want to create a brand image that communicates sophistication, class and limitles possibilities. 
 
 ### Short term goal 
-
+We want to focus on building our brand and strengthen our execution. This means improving our digital and offline presence, and building an exceptional catalogue of internal and external product sources. 
 
 
 ## How can you help
 
 ### Strategic
-Strategize, plan and build a tech backbone that enables a solopreneur model. 
+Strategize, plan and build a tech backbone that enables us to construct and scale Krafted For You while preserving our focus on quality and customer focus.
 
-### Technical 
+### Technical
+We want to keep handcrafting products with the artist-solopreneur because that what we love to do, and autonomize as much as possible of the rest of the organizatino - strategy, design, operations and marketing functions. We want to build an agentic enterprise that effectively work as 'employees' to run various enterprise functions. 
