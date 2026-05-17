@@ -31,16 +31,22 @@ Posts on Insta, word of mouth from existing customer base.
 ## How we want the business to run 
 
 ### Long term goal
-We want to be able to provide customers any kind of gifting solution they have in mind. We want to build a portfolio of internal and external products which are sophisticated, highly creative products built with attention to detail. We want to create a brand image that communicates sophistication, class and limitles possibilities. 
+- We want to be able to provide customers any kind of gifting solution they have in mind, keeping the same level of sophistication, customization and customer focus while continuing to scale.
+- Keep Krafted For You to less than founder + 2 employees for the next 5 years.
 
 ### Short term goal 
-We want to focus on building our brand and strengthen our execution. This means improving our digital and offline presence, and building an exceptional catalogue of internal and external product sources. 
+- We want to build a portfolio of internal and external products which are sophisticated, highly creative products built with attention to detail.
+- We want to create a brand image that communicates sophistication, class and limitles possibilities, by improving our digital and offline presence.
+- We want to build an exceptional catalogue of internal and external product sources as well as overhead vendors. 
 
 
 ## How can you help
 
 ### Strategic
-Strategize, plan and build a tech backbone that enables us to construct and scale Krafted For You while preserving our focus on quality and customer focus.
+- Strategize the next step in Krafted For you in terms of marketing, brand management and reaching untapped customers.
+- Plan and build a tech backbone that enables us to construct and scale Krafted For You as envisioned above.
 
 ### Technical
-We want to keep handcrafting products with the artist-solopreneur because that what we love to do, and autonomize as much as possible of the rest of the organizatino - strategy, design, operations and marketing functions. We want to build an agentic enterprise that effectively work as 'employees' to run various enterprise functions. 
+We want to keep handcrafting products with the artist-solopreneur because that what we love to do, and autonomize as much as possible of the rest of the organizatino - strategy, design, operations and marketing functions. For this, help us design, plan and build an agentic ecosystem that effectively works as :
+- Our marketing team, including but not limited to digital marketing, online presence management and outbound functions.
+- Our operations team, including managing paying customer queries, order tracking and delivery.
