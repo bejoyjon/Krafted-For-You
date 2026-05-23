@@ -1,0 +1,2 @@
+order_id,lead_id,customer_name,confirmed_date,delivery_date,order_type,final_quote,advance_paid,balance_due,payment_status,materials_needed,vendor_items_needed,handmade_items_needed,current_status,risk_flag,customer_update_due,dispatch_method,tracking_reference,proof_captured,notes
+

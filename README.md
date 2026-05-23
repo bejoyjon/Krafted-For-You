@@ -50,3 +50,14 @@ Posts on Insta, word of mouth from existing customer base.
 We want to keep handcrafting products with the artist-solopreneur because that what we love to do, and autonomize as much as possible of the rest of the organizatino - strategy, design, operations and marketing functions. For this, help us design, plan and build an agentic ecosystem that effectively works as :
 - Our marketing team, including but not limited to digital marketing, online presence management and outbound functions.
 - Our operations team, including managing paying customer queries, order tracking and delivery.
+
+## Agentic organization foundation
+
+The operating foundation for building Krafted For You as a lean, agent-supported organization is documented in:
+
+- [docs/strategy/business_strategy_and_operating_model_2026-05-23.md](docs/strategy/business_strategy_and_operating_model_2026-05-23.md) - strategy-first transformation blueprint from word-of-mouth craft brand to designed premium business.
+- [docs/agentic_org_foundation_2026-05-23.md](docs/agentic_org_foundation_2026-05-23.md) - strategy-first operating model, agent portfolio, workflows, tooling-neutral architecture, 1-2 year build plan, and automation backlog.
+- [AGENTS.md](AGENTS.md) - instructions for future agents working in this repo.
+- [SKILLS.md](SKILLS.md) - reusable agent roles, prompts, and workflows.
+- [docs/runbooks/weekly_agentic_operating_ritual_2026-05-23.md](docs/runbooks/weekly_agentic_operating_ritual_2026-05-23.md) - weekly operating ritual for leads, orders, content, workshops, and learning.
+- [data/templates](data/templates) - CSV-ready templates for leads, orders, products, vendors, content, KPIs, workshops, and customer memory.
