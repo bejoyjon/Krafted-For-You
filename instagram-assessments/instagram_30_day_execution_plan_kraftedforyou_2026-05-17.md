@@ -75,7 +75,7 @@ Use the next 9 feed posts to reset the visible grid. The goal is that a new visi
 | 2026-05-21 | Thursday | Story-only | Founder | Trust | DM sticker | Coffee + planning + packing desk shot |
 | 2026-05-22 | Friday | Reel: Pipe-cleaner sunflower process from materials to final gift | BTS | Reach and shares | `DM "WORKSHOP" if you want to learn this` | Before/after slider |
 | 2026-05-23 | Saturday | Story-only | Workshop | Local leads | Question box | Ask what workshop people want next |
-| 2026-05-24 | Sunday | Carousel: Customer gifting problem to finished hamper | Proof | Conversion | `DM "HAMPER" to create your version` | Testimonial screenshot frame |
+| 2026-05-24 | Sunday | Carousel: 5 years of Krafted For You workshops | Workshop proof | Credibility and workshop inquiries | `DM "WORKSHOP" to join the next session` | Poll: `Bedazzle art or pipe cleaners next?` |
 | 2026-05-25 | Monday | Reel: Weekend workshop vibe and student moments | Workshop | Discovery | `DM "WORKSHOP"` | Countdown sticker for next session |
 | 2026-05-26 | Tuesday | Story-only | Engagement | Replies | This-or-that | Material options, color options |
 | 2026-05-27 | Wednesday | Carousel: What goes into a premium customized hamper | Education | Saves | `Save this before ordering a hamper` | Mini breakdown slide in stories |

@@ -8,42 +8,67 @@ Scope: posts `4` to `9` from the 30-day execution plan
 ### Summary
 - Date: `2026-05-24`
 - Format: `Carousel`
-- Pillar: `Proof / customer journey`
-- Objective: `conversion`
-- CTA: `DM "HAMPER" to create your version`
+- Pillar: `Workshop proof / art education`
+- Objective: `credibility, workshop inquiries, and saves`
+- CTA: `DM "WORKSHOP" to join the next session`
 
 ### Core Idea
-Show the shift from vague gifting need to finished hamper. This makes the service feel tangible and easier to buy.
+Show that Krafted For You is not newly experimenting with workshops. The brand has spent the past 5 years teaching hands-on art forms, including gold foiling, resin art, and texture art, and is now expanding into newer formats like bedazzle art, pipe cleaners, and eco-friendly resin.
 
 ### Cover Headline
-`From "I need a gift" to "This is exactly what I wanted"`
+`5 years of helping people make art with their own hands`
 
 ### Slide Flow
-1. Cover: `From "I need a gift" to "This is exactly what I wanted"`
-2. `The brief: meaningful, elegant, and personal`
-3. `We chose colors, textures, and details around the occasion`
-4. `Every element was styled to feel intentional`
-5. `The final hamper looked curated, not random`
-6. `This is what customised gifting should feel like`
-7. CTA: `DM "HAMPER" to create yours`
+1. Cover: `5 years of helping people make art with their own hands`
+2. `At Krafted For You, workshops are not a new idea`
+   Support: `We have been teaching hands-on art experiences for the past 5 years.`
+3. `What we have taught so far`
+   Support: `Gold foiling, resin art, texture art, and other creative formats.`
+4. `What participants take home`
+   Support: `Not just an artwork, but the confidence that they made it themselves.`
+5. `What is coming next`
+   Support: `Bedazzle art, pipe-cleaner projects, eco-friendly resin, and more.`
+6. `Why workshops matter to us`
+   Support: `They help more people experience the value of handmade, thoughtful creation.`
+7. CTA: `Want to join the next workshop? DM "WORKSHOP".`
 
 ### Caption Draft
-`A good hamper is not just a group of products in a box.`
+`Workshops have been part of Krafted For You for the past 5 years.`
 
-`It should feel personal from the first look.`
+`Over the years, we have taught participants art forms like gold foiling, resin art, texture art, and other hands-on creative formats.`
 
-`This is how we turn a gifting idea into something styled, thoughtful, and celebration-ready.`
+`For us, a workshop is not only about making something pretty. It is about helping people slow down, try a new medium, and take home something they made with their own hands.`
 
-`DM "HAMPER" if you want us to create one for your occasion.`
+`In the coming months, we will be adding newer formats like bedazzle art, pipe-cleaner projects, eco-friendly resin, and more.`
+
+`If you want to join the next session, DM "WORKSHOP".`
 
 ### Visual Direction
-- Use real process photos if available.
-- Sequence the carousel like a mini transformation story.
-- Keep backgrounds consistent across slides.
+- Use real workshop photos wherever possible: tables, materials, participant hands, finished pieces, and founder guidance.
+- Mix old workshop memories with current/future art-form teasers.
+- Keep the slide design warm and credible, not overly promotional.
+- Use one clear visual per slide: avoid crowded collages.
+- If participant faces are used, confirm permission first; otherwise use hands, materials, backs of heads, and finished pieces.
 
 ### Audio Direction
 For story repost only:
-- warm acoustic instrumental
+- warm acoustic instrumental or soft upbeat workshop-style music
+- search cues: `creative workshop`, `soft upbeat acoustic`, `handmade process`
+
+### Story Reshare Plan
+1. Frame 1: `We have been conducting art workshops for 5 years.`
+2. Frame 2: `Gold foiling. Resin art. Texture art. More coming soon.`
+3. Frame 3: `Which workshop should we announce next?`
+   Sticker: poll with `Bedazzle art` / `Pipe cleaners`
+4. Frame 4: `DM "WORKSHOP" to be added to the interest list.`
+
+### Asset Checklist
+- 3-5 old workshop photos or short clips
+- 2-3 close-ups of gold foiling, resin art, or texture art materials
+- 1 founder-guiding-participant photo or clip
+- 1 finished-work display photo
+- 1 teaser visual for upcoming formats: bedazzle art, pipe cleaners, eco-friendly resin
+- 1 clean final CTA slide
 
 ## Post 5
 
