@@ -249,6 +249,24 @@ Why it matters:
 - memory makes the brand feel personal,
 - agents can prepare timely prompts.
 
+### Capability Stream Map
+
+The seven capability streams are the reusable muscle of the company. Offer lanes are where those muscles create customer value.
+
+Do not build capabilities separately from offers. Build each capability by asking: `Which offer lane will this improve first, and how will that improvement show up to the customer?`
+
+Sample final outputs and progress templates for each capability are stored in [capabilities/README.md](capabilities/README.md).
+
+| Capability stream | Customer-facing promise | Internal capability to build | First proof that it is working |
+|---|---|---|---|
+| Customer Emotion Intelligence | The gift feels like it understands the recipient and relationship | Briefing prompts, recipient archetypes, occasion emotion maps, gift-story summaries | Customer says "this is exactly them" or gives a strong emotional reaction |
+| Curated Option Architecture | The customer gets clear, tasteful choices without decision overload | 2-3 option paths, budget bands, customization menus, proposal templates | Quote decisions happen faster with fewer clarification loops |
+| Bespoke Reliability System | Custom gifts still arrive reliably and match expectations | Complexity tiers, lead-time rules, approval checkpoints, order risk flags | Fewer rushed orders, missed updates, or last-minute sourcing problems |
+| Aesthetic And Craft Standards | Every output visibly feels premium and distinctly Krafted For You | Style rules, packaging standards, material rules, quality checklists | Finished gifts look consistent enough to build brand recall |
+| Sourcing Intelligence | The brand can curate unusual, high-fit items without repeated chaos | Vendor catalog, local market map, substitute list, price and lead-time memory | Sourcing starts from known options instead of fresh market discovery |
+| Proof And Story Engine | The brand has visible evidence of taste, craft, and customer impact | Brief-to-gift capture, process photos, testimonials, case-study templates | Every strong order creates reusable marketing and trust assets |
+| Customer Memory And Repeat Loop | Customers feel remembered across occasions and relationships | Customer profiles, occasion dates, recipient preferences, reminder flows | Repeat inquiries and referrals become deliberate rather than accidental |
+
 ## 4. Brand Position
 
 Draft positioning:
@@ -680,6 +698,62 @@ Use customization levels:
 - buyer testimonial,
 - delivery reliability.
 
+### Capability Streams Mapped Against Offer Lanes
+
+Use this table to decide which capabilities matter most for each offer lane. `Primary` means the lane cannot be premium without that capability. `Supporting` means the capability improves quality or scale but is not the main reason customers buy that lane.
+
+| Capability stream | Bespoke Premium Hampers | Signature Handmade Keepsakes | Curated Occasion Gifting | Workshops And Creative Experiences | Select Corporate And Founder Gifting |
+|---|---|---|---|---|---|
+| Customer Emotion Intelligence | Primary: relationship brief drives the hamper concept | Supporting: personal story shapes customization | Primary: occasion emotion defines the playbook | Supporting: workshop theme should connect to participant motivation | Primary: buyer intent and recipient group must be understood |
+| Curated Option Architecture | Primary: 2-3 hamper concepts prevent choice overload | Primary: controlled customization protects capacity | Primary: occasion paths make ordering fast | Supporting: workshop formats should be clearly packaged | Primary: package tiers and personalization levels reduce approval friction |
+| Bespoke Reliability System | Primary: custom sourcing and assembly need timeline control | Primary: handmade production needs complexity and revision rules | Supporting: repeatable playbooks reduce risk | Supporting: event planning checklist protects experience | Primary: quantity, timeline, and approval risk must be managed tightly |
+| Aesthetic And Craft Standards | Primary: hamper composition and packaging create premium feel | Primary: this is the core reason the lane exists | Primary: common occasions must still look refined | Primary: participant output and event environment must look curated | Primary: corporate gifts must not become generic or logo-heavy |
+| Sourcing Intelligence | Primary: external items must fit the concept and budget | Supporting: materials and finishes need known sources | Supporting: common occasion inclusions can be pre-sourced | Supporting: workshop materials need repeatable procurement | Primary: quantity-based sourcing and alternatives are essential |
+| Proof And Story Engine | Primary: brief-to-hamper stories create trust and content | Primary: process and detail shots prove craftsmanship | Primary: occasion examples help customers self-identify | Primary: workshops generate visible community and output proof | Primary: buyers need examples of execution reliability and presentation |
+| Customer Memory And Repeat Loop | Primary: birthdays, anniversaries, and preferences drive repeat gifting | Supporting: past keepsakes inform future personalization | Primary: occasion reminders make the lane repeatable | Supporting: attendees become warm leads and repeat participants | Primary: annual corporate occasions and client lists support repeat orders |
+
+### Capability Priority By Offer Lane
+
+The practical build sequence should not try to perfect all capabilities for all lanes at once.
+
+| Offer lane | First capability to build | Second capability to build | Third capability to build | Why this order |
+|---|---|---|---|---|
+| Bespoke Premium Hampers | Customer Emotion Intelligence | Curated Option Architecture | Bespoke Reliability System | The hamper must start with emotional precision, become easy to choose, then become reliable to deliver |
+| Signature Handmade Keepsakes | Aesthetic And Craft Standards | Curated Option Architecture | Bespoke Reliability System | The product must first look unmistakably premium, then get clear customization boundaries, then become predictable to produce |
+| Curated Occasion Gifting | Curated Option Architecture | Customer Emotion Intelligence | Proof And Story Engine | The lane needs repeatable occasion structures, emotional personalization, then visible examples customers can recognize |
+| Workshops And Creative Experiences | Aesthetic And Craft Standards | Bespoke Reliability System | Proof And Story Engine | Workshops must feel curated, run smoothly, and create content and trust assets |
+| Select Corporate And Founder Gifting | Bespoke Reliability System | Curated Option Architecture | Sourcing Intelligence | Business buyers need reliability first, then package clarity, then scalable sourcing |
+
+### What The Mapping Means Strategically
+
+The first capability investment should probably be in `Customer Emotion Intelligence` and `Curated Option Architecture` for the personal gifting lanes.
+
+Reason:
+
+- they strengthen the core brand promise,
+- they reduce founder effort during inquiry conversations,
+- they make the brand feel more premium,
+- they create better quote drafts,
+- they produce better content stories,
+- and they support later agent automation.
+
+The second capability investment should be in `Bespoke Reliability System` and `Sourcing Intelligence`.
+
+Reason:
+
+- these protect delivery quality,
+- they reduce in-person sourcing chaos,
+- they make premium promises safer,
+- they create the operating backbone for growth.
+
+The third capability investment should be in `Proof And Story Engine` and `Customer Memory And Repeat Loop`.
+
+Reason:
+
+- these turn word of mouth into visible proof,
+- they convert one-time orders into repeat and referral loops,
+- they make marketing easier without forcing the brand into high-volume content production.
+
 ## 7. What To Say No To
 
 To stay premium and operate within the time constraint, Krafted For You should be willing to decline or reshape:
@@ -769,6 +843,49 @@ This means the operating system must prevent:
 Do not jump directly to automation. Use this sequence.
 
 Each layer should produce decisions that constrain the next layer. If a lower layer is unclear, move one layer up rather than solving it with tools.
+
+### Capability Streams Mapped Against Strategic Layers
+
+Use this table to understand how each capability should be shaped across business strategy, operations, marketing, digital strategy, and agent automation.
+
+| Capability stream | Business strategy decides | Operations strategy builds | Marketing strategy proves | Digital strategy captures or expresses | Agent automation supports |
+|---|---|---|---|---|---|
+| Customer Emotion Intelligence | Which emotional jobs and relationship types the brand wants to own | Intake questions, briefing flow, approval checkpoints | Stories showing gifts that made recipients feel seen | Inquiry form fields, relationship prompts, case-study structure | Brief extraction, recipient profile summaries, gift-story drafts |
+| Curated Option Architecture | Which offer lanes, budgets, and customization boundaries are allowed | Proposal formats, option tiers, quote workflow | Content that shows guided choice and premium curation | Offer pages, guided inquiry paths, example packages | Option generation, proposal drafts, comparison tables |
+| Bespoke Reliability System | What reliability promise the brand is willing to make | Complexity tiers, lead times, risk flags, order checklists | Proof of on-time, high-detail execution | Order-status language, expectation-setting FAQs, delivery policy | Risk monitoring, update reminders, checklist generation |
+| Aesthetic And Craft Standards | What visual and quality standard defines the brand | Material rules, packaging checks, quality control gates | Detail-focused content, process proof, finished product consistency | Portfolio curation, visual standards, photo library structure | Quality checklist prompts, asset tagging, consistency review |
+| Sourcing Intelligence | Which product categories and vendor types fit the brand | Vendor catalog, local market map, substitutes, cost memory | Stories about thoughtful curation and material quality | Catalog metadata, vendor notes, product source memory | Vendor shortlists, price comparisons, substitute suggestions |
+| Proof And Story Engine | Which proof matters most for premium trust | Proof capture steps inside every order and workshop | Testimonials, before/after stories, process content, case studies | Proof library, case-study pages, testimonial archive | Content repurposing, case-study drafts, testimonial request drafts |
+| Customer Memory And Repeat Loop | Which repeat occasions and relationships matter most | Customer records, occasion reminders, follow-up rules | Referral prompts, repeat-gifting stories, loyalty narrative | Customer memory fields, reminder capture, preference history | Reminder generation, repeat suggestion drafts, referral follow-up drafts |
+
+### Strategic Layer Ownership
+
+Each strategic layer should own a different type of decision.
+
+| Strategic layer | Main question | Capabilities most affected | Output that should exist before moving on |
+|---|---|---|---|
+| Business Strategy | What premium position, customer, offer, and constraint choices define the company? | All capabilities, especially Customer Emotion Intelligence and Curated Option Architecture | Positioning, offer lanes, customer profiles, moat priorities, capacity assumptions |
+| Operations Strategy | How will the brand deliver the promise reliably with low human time? | Bespoke Reliability System, Sourcing Intelligence, Aesthetic And Craft Standards | Order workflow, complexity tiers, sourcing rules, quality checks, update cadence |
+| Marketing Strategy | How will the market remember and trust the brand? | Proof And Story Engine, Customer Emotion Intelligence, Aesthetic And Craft Standards | Narrative, proof library plan, content pillars, referral loops, workshop growth loop |
+| Digital Strategy | How will digital touchpoints educate, filter, and capture customers? | Curated Option Architecture, Proof And Story Engine, Customer Memory And Repeat Loop | Website/catalog requirements, inquiry structure, proof library, data capture rules |
+| Agent Automation Strategy | How will agents reduce human effort without damaging taste or trust? | All capabilities, especially Customer Memory, Reliability, Option Architecture | Agent map, approval matrix, prompt library, data model, automation backlog |
+
+### How To Use The Strategy Layer Map
+
+When evaluating an idea, ask three questions:
+
+1. Which capability stream does this strengthen?
+2. Which offer lane benefits first?
+3. Which strategic layer owns the decision?
+
+Example:
+
+- Idea: build a structured customer inquiry form.
+- Capability strengthened: Customer Emotion Intelligence and Curated Option Architecture.
+- Offer lane helped first: Bespoke Premium Hampers and Curated Occasion Gifting.
+- Strategic layer owner: Digital Strategy captures the form, but Business Strategy decides what questions matter and Operations Strategy decides how the answers flow into quoting.
+
+This prevents tactical ideas from floating separately from the strategy.
 
 ### Layer 1: Business Strategy
 
@@ -1129,18 +1246,22 @@ Only after the workflow is stable enough to know what the tool must support.
 
 ## 13. Near-Term Deliverables
 
-The next artifacts should be created in this order:
+The first-pass artifacts have been created with focus on `Customer Emotion Intelligence` and `Curated Option Architecture`.
 
-1. `brand_strategy_2026.md`
-2. `moat_and_capability_strategy_2026.md`
-3. `offer_architecture_2026.md`
-4. `operating_model_2_people_2_hours.md`
-5. `operations_strategy_2026.md`
-6. `marketing_strategy_2026.md`
-7. `digital_strategy_2026.md`
-8. `agent_automation_architecture_2026.md`
+| Artifact | Purpose | Current focus |
+|---|---|---|
+| [brand_strategy_2026.md](brand_strategy_2026.md) | Define brand role, success, proof, and feedback loop | Make emotional precision and guided choice core to brand meaning |
+| [moat_and_capability_strategy_2026.md](moat_and_capability_strategy_2026.md) | Tactical capability-build plan | Build the first two moat capabilities across all strategy layers |
+| [offer_architecture_2026.md](offer_architecture_2026.md) | Define offer lanes and option paths | Personal gifting lanes, first occasion playbooks, proposal structure |
+| [operating_model_2_people_2_hours.md](operating_model_2_people_2_hours.md) | Define low-human-effort execution model | Inquiry-to-brief-to-options workflow under daily time constraint |
+| [operations_strategy_2026.md](operations_strategy_2026.md) | Define repeatable delivery process | Brief quality scoring, option generation, founder approval flow |
+| [marketing_strategy_2026.md](marketing_strategy_2026.md) | Turn trust and proof into demand | Brief-to-gift stories, recipient archetypes, proof capture |
+| [digital_strategy_2026.md](digital_strategy_2026.md) | Define tool-neutral digital requirements | Guided inquiry, offer clarity, proof library, structured data capture |
+| [agent_automation_architecture_2026.md](agent_automation_architecture_2026.md) | Define first AI-agent workflows | Brief extraction, emotion interpretation, option generation, learning loop |
 
 Each artifact should be short enough to use, but precise enough that an agent can execute from it.
+
+Next refinement step: populate these artifacts with `20-30` reconstructed past orders so the templates are grounded in Krafted For You's actual customer history, not theoretical gifting patterns.
 
 ## 14. Definition Of Success
 
